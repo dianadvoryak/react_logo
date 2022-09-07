@@ -1,0 +1,40 @@
+.header{
+  height: 65px;
+  background: #1D252E;
+  width: 100%;
+}
+.container{
+  margin: auto;
+  max-width: 1220px;
+  padding: 0 10px;
+}
+.header__inner{
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+  align-items: center;
+  height: 65px;
+  margin: auto;
+}
+.header__tel{
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 26px;
+  margin-right: 10px;
+}
+.header__icons{
+  display: flex;
+}
+.header__icon{
+  margin-left: 10px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 24px;
+  height: 24px;
+}
+.header__wrapper{
+  display: flex;
+}

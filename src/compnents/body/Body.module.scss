@@ -1,0 +1,37 @@
+.body{
+  margin-top: 80px;
+}
+.container{
+  margin: auto;
+  max-width: 1220px;
+  padding: 0 10px;
+}
+.title{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 44px;
+  line-height: 52px;
+  display: flex;
+  align-items: center;
+  color: #1D252E;
+}
+.text{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  color: #1D252E;
+  margin-left: 200px;
+  max-width: 946px;
+  margin-bottom: 60px;
+}
+.title__block{
+  margin-bottom: 70px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
